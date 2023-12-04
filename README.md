@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Yadav
-- 👀 I’m interested in Front End
+- 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Reactjs
 
 
